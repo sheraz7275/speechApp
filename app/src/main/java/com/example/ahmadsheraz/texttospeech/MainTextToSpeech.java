@@ -355,7 +355,7 @@ public class MainTextToSpeech extends AppCompatActivity implements TextToSpeech.
         country.add("UK");
 
                 country.add("CANADA");
-                country.add("CANADA FRENCH");
+        //        country.add("CANADA FRENCH");
 
                 country.add("CHINESE");
                 country.add("ENGLISH");
